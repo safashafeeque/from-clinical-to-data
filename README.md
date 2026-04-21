@@ -6,7 +6,7 @@ Coming from a clinical background, I wanted to explore how patterns in medical d
 
 ## Objective
 
-In this project, I will be working with a simple healthcare dataset and learning how to:
+In this project, I worked with a simple healthcare dataset to begin learning how to:
 
 - load and explore data using Python
 - clean and organize raw information
@@ -17,7 +17,7 @@ In this project, I will be working with a simple healthcare dataset and learning
 
 During my medical training, I became increasingly interested in understanding the underlying patterns behind clinical observations. At the same time, I realized that I wanted to engage with healthcare in a way that was more analytical and less dependent on direct patient interaction.
 
-This project is part of my effort to move in that direction, while building a foundation in data analysis and bioinformatics.
+This project is part of my effort to move in that direction while building a foundation in data analysis and bioinformatics.
 
 ## Tools Involved
 
@@ -31,13 +31,16 @@ This project is part of my effort to move in that direction, while building a fo
 
 - Choose a healthcare dataset
 - Perform initial data exploration
+- Clean and organize the data
 - Create simple visualizations
 - Document observations
 
 ## Key Findings
-- The dataset had 768 patient records and 9 clinical variables
-- There were no formally missing values at first glance, but several columns contained invalid zero values
-- Missing or invalid values were handled using median imputation
-- Glucose value appears to be one of the strongest visible differences between outcome groups
-- BMI also appears higher in the diabetes-positive group, though likely with more overlap
-- The dataset suggests diabetes outcome is influenced by multiple clinical factors and not just one.
+
+- The dataset had 768 patient records and 9 clinical variables.
+- There were no formally missing values at first glance, but several columns contained invalid zero values.
+- Missing or invalid values were handled using median imputation.
+- Glucose appeared to be one of the clearest visible differences between outcome groups.
+- BMI also appeared higher in the diabetes-positive group, though with more overlap.
+- The dataset suggests that diabetes outcome is influenced by multiple clinical factors rather than a single variable.
+  
