@@ -37,18 +37,18 @@ This project is part of my effort to move in that direction while building a fou
 
 ## Concepts Refreshed
 
-- Mean: Statistical average obtained by dived the sum of values by the no. of values
-- Median: The middle-most value in the dataset once the data is arranged in ascending order
-- Mode: Most frequentlu ocurring data
-- Range: Maximum value - Minimum value
-- Standard deviation (std): How spread out are the values from the mean. Describes the variability of the data. (low std: more simialr, high std: more variable)
-- Variance: square of std
-- Quartiles: Obtained by dividing the data into 4 parts, each representing 25% of the data.
-  - Q1 (median of lower half): 25% of values exist below this
-  - Q2 (median of entire data): 50% of the data are below this value
-  - Q3 (median of upper half): 75% of values exist below this
-- Interquartile range (IQR): Q3-Q1, shows the spread of the middle 50% of data
-- Outliers: Values deviating significantly from most data
+- **Mean**: The statistical average, obtained by dividing the sum of all values by the number of values.
+- **Median**: The middle value in a dataset once the data is arranged in ascending order.
+- **Mode**: The most frequently occurring value in the dataset.
+- **Range**: Maximum value - Minimum value.
+- **Standard deviation (std)**: Shows how spread out the values are from the mean. A low standard deviation means the values are closer together, while a high standard deviation means they are more spread out.
+- **Variance**: The square of the standard deviation.
+- **Quartiles**: Values that divide the data into 4 parts, each representing 25% of the dataset.
+  - **Q1** (first quartile): 25% of the values fall below this point.
+  - **Q2** (second quartile / median): 50% of the values fall below this point.
+  - **Q3** (third quartile): 75% of the values fall below this point.
+- **Interquartile range (IQR)**: Q3 - Q1. It shows the spread of the middle 50% of the data.
+- **Outliers**: Values that differ significantly from the rest of the data.
 
   
 ## Key Findings
