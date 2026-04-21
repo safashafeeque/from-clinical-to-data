@@ -35,6 +35,22 @@ This project is part of my effort to move in that direction while building a fou
 - Create simple visualizations
 - Document observations
 
+## Concepts Refreshed
+
+- Mean: Statistical average obtained by dived the sum of values by the no. of values
+- Median: The middle-most value in the dataset once the data is arranged in ascending order
+- Mode: Most frequentlu ocurring data
+- Range: Maximum value - Minimum value
+- Standard deviation (std): How spread out are the values from the mean. Describes the variability of the data. (low std: more simialr, high std: more variable)
+- Variance: square of std
+- Quartiles: Obtained by dividing the data into 4 parts, each representing 25% of the data.
+  - Q1 (median of lower half): 25% of values exist below this
+  - Q2 (median of entire data): 50% of the data are below this value
+  - Q3 (median of upper half): 75% of values exist below this
+- Interquartile range (IQR): Q3-Q1, shows the spread of the middle 50% of data
+- Outliers: Values deviating significantly from most data
+
+  
 ## Key Findings
 
 - The dataset had 768 patient records and 9 clinical variables.
