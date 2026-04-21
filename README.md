@@ -35,7 +35,7 @@ This project is part of my effort to move in that direction while building a fou
 - Create simple visualizations
 - Document observations
 
-## Concepts Refreshed
+## Concepts Revised
 
 - **Mean**: The statistical average, obtained by dividing the sum of all values by the number of values.
 - **Median**: The middle value in a dataset once the data is arranged in ascending order.
